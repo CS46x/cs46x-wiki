@@ -1,3 +1,5 @@
+<small>Owner: TBD | Last updated: 2026-01-09 | Status: Draft</small>
+
 # Release Plan & Notes (milestones/demos)
 
 > For each milestone: what’s new, how to try it, and known issues. Helps you plan demos, communicate change, and track progress over the term.

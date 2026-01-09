@@ -1,3 +1,5 @@
+<small>Owner: TBD | Last updated: 2026-01-09 | Status: Draft</small>
+
 # Wiki Editing & File Naming Notes
 
 ## Key platform rules that affect page titles

@@ -1,3 +1,5 @@
+<small>Owner: TBD | Last updated: 2026-01-09 | Status: Draft</small>
+
 # Team Standards for Development
 
 - A concise summary of the most important working rules for your team, especially as they apply to development. Should cover:

@@ -1,3 +1,5 @@
+<small>Owner: TBD | Last updated: 2026-01-09 | Status: Draft</small>
+
 # Handoff, Reflection, and Future Work
 
 > Limits of the current build, “if we had two more weeks,” and tips for the next team. Shows thoughtful reflection and sets up continuity.

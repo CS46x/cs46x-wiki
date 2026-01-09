@@ -1,3 +1,5 @@
+<small>Owner: TBD | Last updated: 2026-01-09 | Status: Draft</small>
+
 # Release Notes / Changelog
 
 ## Purpose

@@ -1,3 +1,5 @@
+<small>Owner: TBD | Last updated: 2026-01-09 | Status: Draft</small>
+
 # System Design (with diagrams)
 
 > The big picture: main parts, how they talk, data flow, key assumptions, and links to important resources (Design Doc). Builds a shared mental model so teammates and reviewers can follow your design.

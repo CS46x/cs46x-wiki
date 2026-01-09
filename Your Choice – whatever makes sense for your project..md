@@ -1,3 +1,5 @@
+<small>Owner: TBD | Last updated: 2026-01-09 | Status: Draft</small>
+
 # Your Choice – whatever makes sense for your project.
 
 ## Purpose

@@ -1,3 +1,5 @@
+<small>Owner: TBD | Last updated: 2026-01-09 | Status: Draft</small>
+
 # Decision Log (short design notes)
 
 > Small entries with: the question, options, the choice, and why (date + owner). Prevents re-hashing old debates and shows your reasoning to graders.

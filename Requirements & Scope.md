@@ -1,3 +1,5 @@
+<small>Owner: TBD | Last updated: 2026-01-09 | Status: Draft</small>
+
 # Requirements & Scope
 
 > Your key project requirements in condensed form. Include any important user stories, features or detailed specifications, metrics (e.g., responsiveness, reliability, projected number of users), project risks, plus links to important resources (Requirements Doc). Keeps the project feasible and ties testing back to intent.

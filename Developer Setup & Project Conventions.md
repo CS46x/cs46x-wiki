@@ -1,3 +1,5 @@
+<small>Owner: TBD | Last updated: 2026-01-09 | Status: Draft</small>
+
 # Developer Setup & Project Conventions
 
 > Step-by-step: how to get the code, set it up, run it, and where things live in the repo. Reduces setup time for new contributors and TAs and avoids “works on my machine.”
