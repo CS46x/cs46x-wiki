@@ -15,7 +15,7 @@ This wiki is the **single source of truth** for the project. Keep this Home page
 
     </td>
     <td align="right">
-      <img src="Wiki-Scholars.png" alt="Wiki Scholars" width="220">
+      <img src="Wiki-Scholars.png" alt="Wiki Scholars" width="1000">
     </td>
   </tr>
 </table>
