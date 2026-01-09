@@ -1,4 +1,4 @@
-# UI/UX
+# UI - UX
 
 ## Purpose
 Include wireframes, component inventory, and accessibility checklist.
@@ -13,4 +13,3 @@ Include wireframes, component inventory, and accessibility checklist.
 - Keyboard navigation: TBD
 - Contrast: TBD
 - Alt text: TBD
-

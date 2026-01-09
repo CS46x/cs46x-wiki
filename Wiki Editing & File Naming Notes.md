@@ -3,7 +3,7 @@
 ## Key platform rules that affect page titles
 - GitHub wiki page names come from filenames.
 - Filenames should avoid: `\ / : * ? " < > |`.
-- For rubric-required titles that include `/`, keep filenames safe and use `\[\[Page Name|Display Text\]\]` plus the page H1 to show the exact title.
+- For rubric titles that include `/`, keep filenames safe and use `[[Safe Title|Display Title]]` to show the exact rubric wording.
 
 ## Local workflow (optional)
 1. Create an initial wiki page in GitHub UI.

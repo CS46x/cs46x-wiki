@@ -39,7 +39,7 @@ CI/CD – policy and pipeline overview, who builds what and when, what runs wher
 - [[Architecture Decision Records (ADRs)]] – short, dated decisions with context.
 - [[API Spec]] – endpoints/contracts, example requests/responses.
 - [[Data Model & Schemas]] – ERD, migrations strategy, seed data.
-- [[UI - UX|UI/UX]] – wireframes, component library, accessibility checklist.
+- [[UI - UX]] – wireframes, component library, accessibility checklist.
 - [[Observability]] – logging, metrics, tracing; what to check first when things break.
 - [[Security & Privacy]] – threat model, secrets handling, authZ/authN, data retention.
 - [[Meeting Notes & Decisions Log]] – quick summaries and action items.

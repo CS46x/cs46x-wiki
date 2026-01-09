@@ -21,7 +21,7 @@
 - [[Architecture Decision Records (ADRs)]]
 - [[API Spec]]
 - [[Data Model & Schemas]]
-- [[UI - UX|UI/UX]]
+- [[UI - UX]]
 - [[Observability]]
 - [[Security & Privacy]]
 - [[Meeting Notes & Decisions Log]]
