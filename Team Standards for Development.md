@@ -16,7 +16,7 @@ CI/CD – policy and pipeline overview, who builds what and when, what runs wher
 - Primary channel: TBD
 - Response expectations: TBD
 - Meeting cadence: TBD
-- Decision capture: [Decision Log](Decision-Log-(short-design-notes)) and/or [Architecture Decision Records (ADRs)](Architecture-Decision-Records-(ADRs))
+- Decision capture: [[Decision Log (short design notes)]] and/or [[Architecture Decision Records (ADRs)]]
 
 ## Coding Standards
 - Languages & style guides: TBD

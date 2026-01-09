@@ -13,9 +13,9 @@
 - TBD
 
 ## Tips for the next team
-- Start with: [Home](Home) and [Developer Setup & Project Conventions](Developer-Setup-&-Project-Conventions)
-- Review: [Decision Log](Decision-Log-(short-design-notes)) and [Risk Register & Mitigations](Risk-Register-&-Mitigations)
-- Use: [Demo Scripts](Demo-Scripts) as acceptance checks
+- Start with: [[Home]] and [[Developer Setup & Project Conventions]]
+- Review: [[Decision Log (short design notes)]] and [[Risk Register & Mitigations]]
+- Use: [[Demo Scripts]] as acceptance checks
 
 ## Single sources of truth (links only)
 - Requirements doc: TBD

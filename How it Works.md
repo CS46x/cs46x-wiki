@@ -14,8 +14,8 @@ Details on the ideas behind the code; keep it digestible and link to deeper reso
 - TBD
 
 ## Why this design
-- Link to [System Design (with diagrams)](System-Design-(with-diagrams))
-- Link to [Decision Log](Decision-Log-(short-design-notes)) / [ADRs](Architecture-Decision-Records-(ADRs))
+- Link to [[System Design (with diagrams)]]
+- Link to [[Decision Log (short design notes)]] / [[Architecture Decision Records (ADRs)]]
 
 ## Single sources of truth (links only)
 - Requirements doc: TBD

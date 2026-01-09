@@ -31,8 +31,8 @@
 
 ## Demo readiness checklist (per milestone)
 - [ ] Tests passing
-- [ ] Demo script updated: [Demo Scripts](Demo-Scripts)
-- [ ] Release notes updated: [Release Notes - Changelog](Release-Notes---Changelog)
+- [ ] Demo script updated: [[Demo Scripts]]
+- [ ] Release notes updated: [[Release Notes - Changelog|Release Notes / Changelog]]
 
 ## Single sources of truth (links only)
 - Requirements doc: TBD

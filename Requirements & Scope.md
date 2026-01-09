@@ -30,7 +30,7 @@
 - TBD
 
 ## Project risks (high-level)
-- Risk: TBD → Mitigation: see [Risk Register & Mitigations](Risk-Register-&-Mitigations)
+- Risk: TBD → Mitigation: see [[Risk Register & Mitigations]]
 
 ## Single sources of truth (links only)
 - Requirements doc: TBD

@@ -11,7 +11,7 @@ Quick summaries and action items; link decisions to Decision Log/ADRs rather tha
 - **Date:** YYYY-MM-DD
 - **Attendees:** TBD
 - **Agenda:** TBD
-- **Decisions:** link to [Decision Log](Decision-Log-(short-design-notes)) / [ADRs](Architecture-Decision-Records-(ADRs))
+- **Decisions:** link to [[Decision Log (short design notes)]] / [[Architecture Decision Records (ADRs)]]
 - **Action items:** TBD
 
 ## Single sources of truth (links only)
