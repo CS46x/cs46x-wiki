@@ -1,4 +1,4 @@
-# Release Notes - Changelog
+# Release Notes / Changelog
 
 ## Purpose
 Human-readable highlights per release.
