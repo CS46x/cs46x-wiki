@@ -9,7 +9,7 @@
 - TBD
 
 ## Tips for the next team
-- Start with: [[Home]] and [[Developer Setup & Project Conventions]]
-- Review: [[Decision Log (short design notes)]] and [[Risk Register & Mitigations]]
-- Use: [[Demo Scripts]] as acceptance checks
+- Start with: [Home](<Home.md>) and [Developer Setup & Project Conventions](<Developer Setup & Project Conventions.md>)
+- Review: [Decision Log (short design notes)](<Decision Log (short design notes).md>) and [Risk Register & Mitigations](<Risk Register & Mitigations.md>)
+- Use: [Demo Scripts](<Demo Scripts.md>) as acceptance checks
 

@@ -26,5 +26,5 @@
 - TBD
 
 ## Project risks (high-level)
-- Risk: TBD → Mitigation: see [[Risk Register & Mitigations]]
+- Risk: TBD → Mitigation: see [Risk Register & Mitigations](<Risk Register & Mitigations.md>)
 

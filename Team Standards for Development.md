@@ -12,7 +12,7 @@
 - Primary channel: TBD
 - Response expectations: TBD
 - Meeting cadence: TBD
-- Decision capture: [[Decision Log (short design notes)]] and/or [[Architecture Decision Records (ADRs)]]
+- Decision capture: [Decision Log (short design notes)](<Decision Log (short design notes).md>) and/or [Architecture Decision Records (ADRs)](<Architecture Decision Records (ADRs).md>)
 
 ## Coding Standards
 - Languages & style guides: TBD

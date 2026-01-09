@@ -1,4 +1,4 @@
-# UI - UX
+# UI / UX
 
 ## Purpose
 Include wireframes, component inventory, and accessibility checklist.
