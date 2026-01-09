@@ -1,4 +1,4 @@
-<small>Owner: TBD | Last updated: 2026-01-09 | Status: Draft</small>
+_Owner: TBD | Last updated: 2026-01-09 | Status: Draft_
 
 # Start Here
 This wiki is the **single source of truth** for the project. Keep this Home page current; everything else hangs off it.

@@ -1,4 +1,4 @@
-<small>Owner: TBD | Last updated: 2026-01-09 | Status: Draft</small>
+_Owner: TBD | Last updated: 2026-01-09 | Status: Draft_
 
 # Wiki Editing & File Naming Notes
 
