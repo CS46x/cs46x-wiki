@@ -1,12 +1,12 @@
 # Team Standards for Development
 
-> A concise summary of the most important working rules for your team, especially as they apply to development. Should cover:
-Team Communication Standards – Concise summary of 461 policy. Update if necessary.
-Coding Standards – language/style guides, linting, formatting, comments, etc.
-Testing Plan & How to Run Tests – What you test (unit, integration, manual checks), test data, and how to run everything.
-Branching & Release – git flow, versioning, tagging, release checklist.
-Coding Review – when and how is code reviewed, using pull-requests, formal review sessions, pair-programming, etc.
-CI/CD – policy and pipeline overview, who builds what and when, what runs where.
+- A concise summary of the most important working rules for your team, especially as they apply to development. Should cover:
+  - Team Communication Standards – Concise summary of 461 policy. Update if necessary.
+  - Coding Standards – language/style guides, linting, formatting, comments, etc.
+  - Testing Plan & How to Run Tests – What you test (unit, integration, manual checks), test data, and how to run everything.
+  - Branching & Release – git flow, versioning, tagging, release checklist.
+  - Coding Review – when and how is code reviewed, using pull-requests, formal review sessions, pair-programming, etc.
+  - CI/CD – policy and pipeline overview, who builds what and when, what runs where.
 
 ## Team Communication Standards (461 policy summary)
 - Primary channel: TBD
