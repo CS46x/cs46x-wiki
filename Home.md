@@ -26,7 +26,7 @@ This wiki is the **single source of truth** for the project. Keep this Home page
   - Step-by-step: how to get the code, set it up, run it, and where things live in the repo. Reduces setup time for new contributors and TAs and avoids “works on my machine.”
 - [[Decision Log (short design notes)]]
   - Small entries with: the question, options, the choice, and why (date + owner). Prevents re-hashing old debates and shows your reasoning to graders.
-- [[Release Plan & Notes (milestones demos)|Release Plan & Notes (milestones/demos)]]
+- [[Release Plan & Notes (milestones - demos)]]
   - For each milestone: what’s new, how to try it, and known issues. Helps you plan demos, communicate change, and track progress over the term.
 - [[Handoff, Reflection, and Future Work]]
   - Limits of the current build, “if we had two more weeks,” and tips for the next team. Shows thoughtful reflection and sets up continuity.
@@ -52,7 +52,7 @@ This wiki is the **single source of truth** for the project. Keep this Home page
 - [[Handoff & Future Work]] – known gaps, next steps, wishlist, lessons learned.
 - [[Licenses & Credits]] – third-party deps, licenses, attributions.
 - [[Glossary]] – project-specific terms and abbreviations.
-- [[Release Notes - Changelog|Release Notes / Changelog]] – human-readable highlights per release.
+- [[Release Notes - Changelog]] – human-readable highlights per release.
 - [[FAQ]] – The beginnings of a knowledge base.
 
 ## Demo checklist (definition of success)
