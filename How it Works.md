@@ -10,6 +10,6 @@ Details on the ideas behind the code; keep it digestible and link to deeper reso
 - TBD
 
 ## Why this design
-- Link to [System Design (with diagrams)](<System Design (with diagrams).md>)
-- Link to [Decision Log (short design notes)](<Decision Log (short design notes).md>) / [Architecture Decision Records (ADRs)](<Architecture Decision Records (ADRs).md>)
+- Link to [System Design (with diagrams)](<System Design (with diagrams)>)
+- Link to [Decision Log (short design notes)](<Decision Log (short design notes)>) / [Architecture Decision Records (ADRs)](<Architecture Decision Records (ADRs)>)
 
