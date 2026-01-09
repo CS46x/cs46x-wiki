@@ -1,7 +1,3 @@
-**Owner:** TBD  
-**Last updated:** 2026-01-09  
-**Status:** Draft
-
 # Team Standards for Development
 
 > A concise summary of the most important working rules for your team, especially as they apply to development. Should cover:
@@ -71,9 +67,3 @@ TBD
 - Environments: dev/staging/prod (if any)
 - Ownership: TBD
 
-## Single sources of truth (links only)
-- Requirements doc: TBD
-- Design doc: TBD
-- Project board: TBD
-- CI dashboard: TBD
-- Release artifacts: TBD

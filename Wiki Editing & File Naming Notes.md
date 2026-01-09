@@ -1,7 +1,3 @@
-**Owner:** TBD  
-**Last updated:** 2026-01-09  
-**Status:** Current
-
 # Wiki Editing & File Naming Notes
 
 ## Key platform rules that affect page titles

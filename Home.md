@@ -1,7 +1,3 @@
-**Owner:** TBD  
-**Last updated:** 2026-01-09  
-**Status:** Current
-
 # Start Here
 This wiki is the **single source of truth** for the project. Keep this Home page current; everything else hangs off it.
 ## Tips that keep wikis useful:
@@ -58,13 +54,6 @@ CI/CD – policy and pipeline overview, who builds what and when, what runs wher
 - [[Glossary]] – project-specific terms and abbreviations.
 - [[Release Notes - Changelog|Release Notes / Changelog]] – human-readable highlights per release.
 - [[FAQ]] – The beginnings of a knowledge base.
-
-## Single sources of truth (links only)
-- Requirements doc: TBD
-- Design doc: TBD
-- Project board: TBD
-- CI dashboard: TBD
-- Release artifacts: TBD
 
 ## Demo checklist (definition of success)
 - [ ] TBD

@@ -1,7 +1,3 @@
-**Owner:** TBD  
-**Last updated:** 2026-01-09  
-**Status:** Draft
-
 # Decision Log (short design notes)
 
 > Small entries with: the question, options, the choice, and why (date + owner). Prevents re-hashing old debates and shows your reasoning to graders.
@@ -27,9 +23,3 @@ Use short entries so decisions are easy to audit and do not require re-hashing.
   - **Why:** TBD
   - **Consequences:** TBD
 
-## Single sources of truth (links only)
-- Requirements doc: TBD
-- Design doc: TBD
-- Project board: TBD
-- CI dashboard: TBD
-- Release artifacts: TBD

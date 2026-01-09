@@ -1,7 +1,3 @@
-**Owner:** TBD  
-**Last updated:** 2026-01-09  
-**Status:** Draft
-
 # Observability
 
 ## Purpose
@@ -23,9 +19,3 @@ Logging, metrics, and tracing: what to check first when things break.
 1. TBD
 2. TBD
 
-## Single sources of truth (links only)
-- Requirements doc: TBD
-- Design doc: TBD
-- Project board: TBD
-- CI dashboard: TBD
-- Release artifacts: TBD

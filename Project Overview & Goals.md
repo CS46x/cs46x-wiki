@@ -1,7 +1,3 @@
-**Owner:** TBD  
-**Last updated:** 2026-01-09  
-**Status:** Draft
-
 # Project Overview & Goals
 
 > A one-page summary of the problem, who benefits, and what “success” looks like (a short demo checklist works well). This anchors the team and gives graders a clear lens for evaluation.
@@ -21,9 +17,3 @@
 - [ ] TBD
 - [ ] TBD
 
-## Single sources of truth (links only)
-- Requirements doc: TBD
-- Design doc: TBD
-- Project board: TBD
-- CI dashboard: TBD
-- Release artifacts: TBD

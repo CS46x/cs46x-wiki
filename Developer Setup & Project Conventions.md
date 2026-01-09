@@ -1,7 +1,3 @@
-**Owner:** TBD  
-**Last updated:** 2026-01-09  
-**Status:** Draft
-
 # Developer Setup & Project Conventions
 
 > Step-by-step: how to get the code, set it up, run it, and where things live in the repo. Reduces setup time for new contributors and TAs and avoids “works on my machine.”
@@ -49,9 +45,3 @@ TBD
 - Decide whether edits happen in GitHub UI or via a local git workflow.
 - If using git locally, clone the wiki repo and push changes to the default branch to publish.
 
-## Single sources of truth (links only)
-- Requirements doc: TBD
-- Design doc: TBD
-- Project board: TBD
-- CI dashboard: TBD
-- Release artifacts: TBD

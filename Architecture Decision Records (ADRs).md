@@ -1,7 +1,3 @@
-**Owner:** TBD  
-**Last updated:** 2026-01-09  
-**Status:** Draft
-
 # Architecture Decision Records (ADRs)
 
 ## Purpose
@@ -18,9 +14,3 @@ Short, dated decisions with context; keep them tiny and frequent.
 - **Decision:** TBD
 - **Consequences:** TBD
 
-## Single sources of truth (links only)
-- Requirements doc: TBD
-- Design doc: TBD
-- Project board: TBD
-- CI dashboard: TBD
-- Release artifacts: TBD

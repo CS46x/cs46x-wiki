@@ -1,7 +1,3 @@
-**Owner:** TBD  
-**Last updated:** 2026-01-09  
-**Status:** Draft
-
 # How it Works
 
 ## Purpose
@@ -17,9 +13,3 @@ Details on the ideas behind the code; keep it digestible and link to deeper reso
 - Link to [[System Design (with diagrams)]]
 - Link to [[Decision Log (short design notes)]] / [[Architecture Decision Records (ADRs)]]
 
-## Single sources of truth (links only)
-- Requirements doc: TBD
-- Design doc: TBD
-- Project board: TBD
-- CI dashboard: TBD
-- Release artifacts: TBD

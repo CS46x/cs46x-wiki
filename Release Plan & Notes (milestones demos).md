@@ -1,7 +1,3 @@
-**Owner:** TBD  
-**Last updated:** 2026-01-09  
-**Status:** Draft
-
 # Release Plan & Notes (milestones/demos)
 
 > For each milestone: what’s new, how to try it, and known issues. Helps you plan demos, communicate change, and track progress over the term.
@@ -34,9 +30,3 @@
 - [ ] Demo script updated: [[Demo Scripts]]
 - [ ] Release notes updated: [[Release Notes - Changelog|Release Notes / Changelog]]
 
-## Single sources of truth (links only)
-- Requirements doc: TBD
-- Design doc: TBD
-- Project board: TBD
-- CI dashboard: TBD
-- Release artifacts: TBD
