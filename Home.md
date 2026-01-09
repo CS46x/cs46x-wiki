@@ -12,12 +12,12 @@ This wiki is the **single source of truth** for the project. Keep this Home page
   - A one-page summary of the problem, who benefits, and what “success” looks like (a short demo checklist works well). This anchors the team and gives graders a clear lens for evaluation.
 - [[Team Standards for Development]]
   - A concise summary of the most important working rules for your team, especially as they apply to development. Should cover:
-Team Communication Standards – Concise summary of 461 policy. Update if necessary.
-Coding Standards – language/style guides, linting, formatting, comments, etc.
-Testing Plan & How to Run Tests – What you test (unit, integration, manual checks), test data, and how to run everything.
-Branching & Release – git flow, versioning, tagging, release checklist.
-Coding Review – when and how is code reviewed, using pull-requests, formal review sessions, pair-programming, etc.
-CI/CD – policy and pipeline overview, who builds what and when, what runs where.
+    - Team Communication Standards – Concise summary of 461 policy. Update if necessary.
+    - Coding Standards – language/style guides, linting, formatting, comments, etc.
+    - Testing Plan & How to Run Tests – What you test (unit, integration, manual checks), test data, and how to run everything.
+    - Branching & Release – git flow, versioning, tagging, release checklist.
+    - Coding Review – when and how is code reviewed, using pull-requests, formal review sessions, pair-programming, etc.
+    - CI/CD – policy and pipeline overview, who builds what and when, what runs where.
 - [[Requirements & Scope]]
   - Your key project requirements in condensed form. Include any important user stories, features or detailed specifications, metrics (e.g., responsiveness, reliability, projected number of users), project risks, plus links to important resources (Requirements Doc). Keeps the project feasible and ties testing back to intent.
 - [[System Design (with diagrams)]]
