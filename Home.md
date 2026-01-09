@@ -2,12 +2,23 @@ _Owner: TBD | Last updated: 2026-01-09 | Status: Draft_
 
 # Start Here
 This wiki is the **single source of truth** for the project. Keep this Home page current; everything else hangs off it.
+<table>
+  <tr>
+    <td>
+
 ## Tips that keep wikis useful:
 - One-page "Start Here" stays current; everything else hangs off it.
 - Owners + "Last updated" at the top of each page.
 - Link to single source of truth (boards, repos, dashboards) – don't duplicate anything.
 - Short ADRs, often – Architecture Decision Records (ADRs) tiny notes that capture an important technical decision, the context, and the consequences. 5–10 minutes each saves hours later.
 - Links to demo scripts – double as acceptance tests and presentation prep.
+
+    </td>
+    <td align="right">
+      <img src="Wiki-Scholars.png" alt="Wiki Scholars" width="220">
+    </td>
+  </tr>
+</table>
 
 ## REQUIRED: Must-have wiki pages (if applicable to your project)
 - [Project Overview & Goals](<Project Overview & Goals>)
