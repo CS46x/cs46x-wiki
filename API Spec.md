@@ -420,5 +420,66 @@ Define authentication and account management endpoints including password change
 
 ---
 
+## SignalR Hubs
 
+SignalR connections require a valid jwt token passed as a query parameter or in the `Authorization` header during the handshake.
+
+```
+wss://<host>/chat?access_token=<jwt>
+wss://<host>/messengerhub?access_token=<jwt>
+```
+
+---
+
+### Hub: `/chat` — ChatHub
+
+Used for arena group chat, room management, and lobby presence.
+
+#### Client --> Server Methods
+
+| Method | Parameters | Description |
+|--------|-----------|-------------|
+| `Join` | `id: string, password: string` | Join an arena (lobby or room) by GUID. Pass an empty string for unprotected arenas. |
+| `Create` | `model: Arena` | Create a new sub-arena inside the current arena. |
+| `Update` | `model: ArenaConfiguration` | Update an arena's settings. Admin/owner only. |
+| `Send` | `message: Message` | Send a chat message to the current arena. |
+| `SendAction` | `text: string` | Send anaction message to the current arena. |
+| `SetStatus` | `status: OnlineStatus` | Update the caller's online status. |
+| `Kick` | `id: string` | Kick a user by their user ID. Admin/owner only. |
+| `SystemMessage` | `text: string` | Broadcast a system message to all connected users. Admin only. |
+
+#### Server --> Client Events
+
+| Event | Payload | Description |
+|-------|---------|-------------|
+| `message` | `Message` | A new chat message was sent to the arena. |
+| `sendAction` | `string` | A `/me`-style action message. |
+| `addArena` | `ArenaCard` | A new sub-arena was created inside the current lobby. |
+| `updateArena` | `Arena` | A sub-arena's configuration was updated. |
+| `update` | `Arena` | The current arena's configuration was updated. This info is sent to all arena members. |
+| `updateUser` | `ArenaUser` | A user in the arena updated their status or info. |
+| `kicked` | `string` (arena GUID or `""`) | The client has been kicked. If a GUID is provided, redirect to that arena. |
+| `systemmessage` | `string` | A system-level message. |
+
+---
+
+### Hub: `/messengerhub` — MessengerHub
+
+Used for direct messaging and friend notifications.
+
+#### Client --> Server Methods
+
+| Method | Parameters | Description |
+|--------|-----------|-------------|
+| `SendDirectMessage` | `toUserId: string, text: string` | Send a direct message to another user. Both users must be friends.|
+
+#### Server --> Client Events
+
+| Event | Payload | Description |
+|-------|---------|-------------|
+| `directMessage` | `{ from, fromName, to, text, sentAt }` | A direct message was received |
+| `friendsList` | Array of `FriendResponseModel` | The caller's current friends list. This is triggered on connect and after any friendship change. |
+| `friendRequestsList` | Array of `FriendRequestResponseModel` | The caller's pending friend requests. Triggered on connect and after any request change. |
+| `friendStatusChanged` | `{ userId: string, status: string }` | A friend's online status changed. |
+| `systemmessage` | `string` | A system-level message. |
 
